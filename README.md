@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=psychtek&show_icons=true)
 
 ---
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
