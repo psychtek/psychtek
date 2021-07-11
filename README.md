@@ -1,4 +1,8 @@
-### Hi there 👋
+### Aaron Willcox 👋
+
+[![GitHub Badge](https://img.shields.io/github/followers/psychtek?style=social)](https://github.com/psychtek)
+[![Twitter Badge](https://img.shields.io/twitter/follow/aaron_willcox?style=social)](https://twitter.com/aaron_willcox)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Aaron-Willcox-3)
 
 <!--
 **psychtek/psychtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+![github stats](https://github-readme-stats.vercel.app/api?username=psychtek&show_icons=true)
+
+---
